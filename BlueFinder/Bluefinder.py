@@ -102,7 +102,7 @@ def btle(s, input_addr, user_input, int_RSSI):
 		try:
 			RSSI = []
 			BD_Addr = []
-			while len(RSSI) < 50:
+			while len(RSSI) < 5:
 				data = s.recv()
 				data = repr(data)
 

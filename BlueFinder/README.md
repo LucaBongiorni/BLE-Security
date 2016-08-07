@@ -15,4 +15,4 @@ Two modes exists within BlueFinder: Bluetooth Classic and BLE. To call the BLE r
 - Requires Bluez 5.29 (or greater)
 
 ## Version
-- v1.3a released 21 July 2016
+- v1.3a released 7 August 2016

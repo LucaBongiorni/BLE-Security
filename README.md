@@ -8,3 +8,6 @@ A Bluetooth Low Energy (BLE) stack for communicating to BLE devices using the Ho
 
 ## Rogue Device
 Creates a spoofed version of the Bluetooth Low Energy devices using Bleno. These are files that can be used with [Bleno](https://github.com/sandeepmistry/bleno).
+
+## DEFCON 24
+PDF of the DEFCON presentation is available to download. 
