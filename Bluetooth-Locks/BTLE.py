@@ -250,16 +250,3 @@ def writecmd(s, handle, value):
 	raw = bytearray.fromhex(raw)
 	s.send(raw)
 	time.sleep(.3)
-
-# Bluetooth Classic RSSI
- #	ran = bytearray.fromhex("010514020c00")
-#	s.send(ran)
-
-# BTLE Scan 5 sec (duplicates on)
-   # ran = bytearray.fromhex("010c20020100")
-   # s.send(ran)
-
-   # time.sleep(5)
-
-   # ran = bytearray.fromhex("010c20020000")
-   # s.send(ran)

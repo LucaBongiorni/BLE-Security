@@ -304,25 +304,3 @@ def LEsetscanparam(s, scan_type):
 	raw = bytearray.fromhex(raw)
 	s.send(raw)
 	time.sleep(.3)
-	
-# Bluetooth Classic RSSI
- #	ran = bytearray.fromhex("010514020c00")
-#	s.send(ran)
-
-# BTLE Scan 5 sec (duplicates on)
-   # ran = bytearray.fromhex("010c20020100")
-   # s.send(ran)
-
-   # time.sleep(5)
-
-   # ran = bytearray.fromhex("010c20020000")
-   # s.send(ran)
-
-# Reverse Hex
-	# BD_Addr = sys.argv[2]
-	# print BD_Addr
-	# BD_Addr = BD_Addr.replace(":", "")
-	# print BD_Addr
-	# BD_Addr = bytearray.fromhex(BD_Addr)
-	# BD_Addr.reverse()
-	# print binascii.hexlify(BD_Addr)
