@@ -16,5 +16,8 @@ Tools used to exploit vulnerabilies in the Onset MX1101 Data Logger.
 ## Rogue Device
 Creates a spoofed version of the Bluetooth Low Energy devices using Bleno. These are files that can be used with [Bleno](https://github.com/sandeepmistry/bleno).
 
-## DEFCON 24
+## Picking Bluetooth Low Energy Locks from A Quarter Mile Away
 PDF of the DEFCON 24 presentation is available to download. 
+
+## How Do I "BLE Hacking"?
+PDF of the DEFCON 24 Wireless Village presentation is available to download. 
